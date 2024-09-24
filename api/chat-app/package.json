@@ -12,6 +12,7 @@
   "dependencies": {
     "@dicebear/collection": "^5.3.5",
     "@dicebear/core": "^5.3.5",
+    "api": "file:..",
     "axios": "^1.6.3",
     "bcryptjs": "^2.4.3",
     "chat-app-live": "file:..",
