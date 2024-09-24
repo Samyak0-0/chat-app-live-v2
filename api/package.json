@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "node index.js",
+    "build": "npm install && npm install --prefix ./chat-app && npm run build --prefix ./chat-app"
   },
   "keywords": [],
   "author": "",
