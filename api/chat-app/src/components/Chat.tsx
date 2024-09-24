@@ -34,7 +34,7 @@ const Chat = () => {
     }, [])
 
     function connectToWs() {
-        const ws = new WebSocket('ws://localhost:4000')
+        const ws = new WebSocket('ws://chat-app-live-v2.onrender.com')
         console.log(ws)
         setWs(ws)
         ws.addEventListener('message', handleMessage)
