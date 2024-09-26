@@ -31,7 +31,7 @@ const Chat = () => {
 
     useEffect(() => {
         connectToWs()
-    }, [])
+    }, [selectedContact])
 
     function connectToWs() {
         const ws = new WebSocket('wss://chat-app-live-v2.onrender.com')
