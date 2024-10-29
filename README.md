@@ -1,7 +1,7 @@
 
 # Messaging App
 
-A real time messaging app with user authentication made using the MERN Stack along with json web tokens(JWT), Web Sockets and typescript.
+A real time messaging app with user authentication made using the MERN Stack along with json web tokens(JWT), Web Sockets and Typescript.
 
 > [!NOTE]
 > The server will slow down with inactivity, which can delay requests by 50 seconds or more.
