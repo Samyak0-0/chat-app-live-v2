@@ -55,7 +55,7 @@ Run the server
   node index.js
 ```
 
-Open [localhost:4000](http://localhost:4000) to view in the browser.
+Open [localhost:4000](http://localhost:4000) to view the application in the browser.
 
 
 ## License
