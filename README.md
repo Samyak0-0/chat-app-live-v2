@@ -5,7 +5,7 @@ A real time messaging app with user authentication made using the MERN Stack alo
 
 > [!NOTE]
 > The server will slow down with inactivity, which can delay requests by 50 seconds or more.<br>
-> For (username, password) use:  (a,a) , (b.b), (test1,test1) ...
+> For (username, password) use:  (a,a) , (b,b) , (test1,test1) ...
 
 ## Project Overview
 
