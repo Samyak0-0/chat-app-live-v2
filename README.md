@@ -58,6 +58,15 @@ Run the server
 Open [localhost:4000](http://localhost:4000) to view the application in the browser.
 
 
+## Environment Variables
+
+To run this project, you will need to add the following environment variables to your .env file
+
+`MONGO_URL`
+`JWT_SECRET`
+`CLIENT_URL`
+
+
 ## License
 
 Distributed under the [MIT](https://choosealicense.com/licenses/mit/) License. 
